@@ -1,0 +1,15 @@
+Processor (CPU): Broadcom BCM2710A1, Cortex-A53 64-bit SoC @ 1GHz.
+RAM (Memory): 512MB LPDDR2 SDRAM.
+Wireless Connectivity:
+    Wi-Fi: 2.4GHz 802.11 b/g/n (BCM43438).
+    Bluetooth: Bluetooth 4.2/BLE (BCM43438).
+Ports:
+    Mini HDMI: For connecting to a display.
+    Micro USB OTG: For power and data.
+    Micro USB: For power.
+    CSI Camera Connector: For connecting the Raspberry Pi Camera.
+GPIO (General Purpose Input/Output): 40-pin GPIO header, compatible with the Raspberry Pi Model A+, B+, 2B, 3B, and 3B+.
+Storage: microSD card slot for storage.
+Power Supply: 5V/1.2A via micro USB.
+Dimensions: 65mm x 30mm x 5mm.
+Operating System Support: Raspbian (now known as Raspberry Pi OS) and other compatible operating systems.
