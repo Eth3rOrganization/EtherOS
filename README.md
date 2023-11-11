@@ -22,7 +22,7 @@ Welcome to EtherOS, your go-to penetration testing solution for the Raspberry Pi
 
 ## Contributing
 
-We welcome contributions from the community! Whether you're a developer, designer, or security enthusiast, your input is valuable. Check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+[Contribution Guidelines](https://github.com/Perke000/PerkeCode#contributors)
 
 ## Community and Support
 
